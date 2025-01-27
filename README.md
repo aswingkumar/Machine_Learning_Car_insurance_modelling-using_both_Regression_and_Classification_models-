@@ -15,3 +15,7 @@ Gradient Boosting, despite its general effectiveness in other scenarios, perform
 This analysis has provided valuable insights into how different models can be leveraged for insurance claim prediction and classification tasks, and suggests avenues for improvement in both model choice and optimization.
 
 Car insurance modeling is a vital tool for the insurance industry, enabling companies to make data-driven decisions that improve operational efficiency, reduce risks, and optimize pricing strategies. By analyzing historical claims data and leveraging advanced statistical and machine learning models, insurers can predict claim frequencies and severities with greater accuracy. This not only enhances risk management but also supports better customer segmentation and fraud detection. The insights gained from such modeling empower insurers to remain competitive in a dynamic market while delivering value to their customers. Overall, car insurance modeling serves as a cornerstone for achieving strategic business goals through the effective use of data.
+
+
+
+----To see the complete video explanation on this topic, check out the following link: 
