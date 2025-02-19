@@ -18,4 +18,4 @@ Car insurance modeling is a vital tool for the insurance industry, enabling comp
 
 
 
-----To see the complete video explanation on this topic, check out the following link: 
+----To see the complete video explanation on this topic, check out the following link: https://youtu.be/fXBm8SNm1lA?si=fIslhpQtYx-sbSTT
